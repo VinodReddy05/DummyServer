@@ -1,3 +1,10 @@
 {
-    "posts":[]
-}
+    "users": [
+      {
+        "id": "1729190165785",
+        "name": "vinod",
+        "email": "vinod@gmail.com",
+        "password": "123456"
+      }
+    ]
+  }
