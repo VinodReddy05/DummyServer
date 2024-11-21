@@ -1,0 +1,11 @@
+{
+    "name": "json-server-app",
+    "version": "1.0.0",
+    "description": "Fake REST API using json-server",
+    "scripts": { 
+      "start": "json-server --watch data.json --port $PORT --host 0.0.0.0"
+    },
+    "dependencies": {
+      "json-server": "^0.17.3"
+    }
+  }
